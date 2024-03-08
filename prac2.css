@@ -21,3 +21,11 @@
 .pre {
     font-family: monospace;
 }
+.h3{
+    color: darkblue;
+    opacity: 0.8;
+}
+.transparent-text{
+    color:rgba(0,0,0,0.5);
+    font-family: monospace;
+}
